@@ -1,1 +1,18 @@
-@import '~bootstrap/scss/bootstrap'
+@import "~bootstrap/scss/bootstrap";
+.cards-container {
+    h5 {
+        color: red;
+    }
+
+    .card {
+        background-image: url("https://img.freepik.com/premium-vector/retro-videocamera-tape-rolls-icon-film-tape-blue-background_24911-2867.jpg");
+    }
+
+    .card-subtitle {
+        color: white;
+    }
+
+    .vote {
+        color: green;
+    }
+}
